@@ -165,7 +165,7 @@ const experiences = [
     date: " 2018 -  2020",
     points: [
       "Non-Medical",
-      "Cemtral Board of Secondary Education",
+      "Central Board of Secondary Education",
       "Scored: 84.8%",
       
     ]

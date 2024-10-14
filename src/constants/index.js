@@ -154,7 +154,7 @@ const experiences = [
       "Computer Science Engineering",
       "Software Developer",
       "Head at Tech Club",
-      "CGPA : 8.03",
+      "CGPA : 8.15",
     ]
   },
   {
@@ -182,60 +182,7 @@ const experiences = [
     ]
   },
 ];
-const Work = [
-  {
-    title: "Bachelor of Technology",
-    company_name: "IK GUJRAL PUNJAB TECHNICAL UNIVERSITY",
-    icon: degree,
-    iconBg: "#003333",
-    date: " 2021 -  2025",
-    points: [
-      "Computer Science Engineering",
-      "Software Developer",
-      "Head at Tech Club",
-      "CGPA : 8.03",
-    ]
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-];
+
 
 const socialLinks = [
   {
@@ -265,45 +212,41 @@ const projects = [
       "Created a Marketplace Web Application utilizing the MERN stack and integrating blockchain technology to enhance transparency and security in the ordering and delivery process.",
     tags: [
       {
-        name: "react",
+        name: "MERN",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Material UI",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tailwind CSS",
         color: "pink-text-gradient",
-      },
-      {
-        name: "ethereum",
-        color: "blue-text-gradient",
       },
     ],
     image: Project1,
     source_code_link: "https://github.com/gurdeep-singh-3251s/Revelin-Frontend",
   },
   {
-    name: "Sanara Music",
+    name: "PriceWay",
     description:
-      "Developed a web-based music player application seamlessly integrating Spotify API, offering users easy playlist management, artist discovery, language preferences, and intuitive playback controls.",
+      "Created a web scraping application using Next.js and TypeScript to track Amazon prices. Utilized Bright Data for CAPTCHA handling and implemented email notifications for price changes, providing users with timely updates on pricing fluctuations.",
     tags: [
       {
-        name: "react",
+        name: "Next JS",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Bright data",
         color: "green-text-gradient",
       },
       {
-        name: "antd",
+        name: "Typescript",
         color: "pink-text-gradient",
       },
     ],
     image: Project2,
-    source_code_link: "https://github.com/gurdeep-singh-3251s/Sanara-Music",
+    source_code_link: "https://github.com/gurdeep-singh-3251s/PriceWay",
   },
   {
     name: "Portfolio Website",
@@ -311,7 +254,7 @@ const projects = [
       "Wait... that's this site! A dynamic compilation reflecting my expertise, skills, and accomplishments, a testament to my professional journey and aspirations for growth",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
@@ -319,7 +262,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tailwind",
         color: "pink-text-gradient",
       },
     ],

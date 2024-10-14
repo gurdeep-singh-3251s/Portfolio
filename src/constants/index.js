@@ -153,7 +153,7 @@ const experiences = [
     points: [
       "Computer Science Engineering",
       "Software Developer",
-      "Head at Tech Club",
+      "Vice President at Tech Club",
       "CGPA : 8.15",
     ]
   },
